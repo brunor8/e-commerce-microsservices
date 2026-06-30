@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Dockerfile/" />
+  <Folder Name="/src/">
+    <Project Path="ECommerceMicrosservices.API/Catalog.API.csproj" />
+    <Project Path="ECommerceMicrosservices.Application/Catalog.Application.csproj" />
+    <Project Path="ECommerceMicrosservices.Domain/Catalog.Domain.csproj" />
+    <Project Path="ECommerceMicrosservices.Infrastructure/Catalog.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="ECommerceMicrosservices.Tests/Catalog.Tests.csproj" />
+  </Folder>
+</Solution>
