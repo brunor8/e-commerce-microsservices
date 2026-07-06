@@ -16,11 +16,4 @@
     <ProjectReference Include="..\Catalog.Domain\Catalog.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="Features\Products\Commands\CreateProduct\" />
-    <Folder Include="Features\Products\Queries\GetAllProducts\" />
-    <Folder Include="Features\Products\Queries\GetProductById\" />
-  </ItemGroup>
-
 </Project>
